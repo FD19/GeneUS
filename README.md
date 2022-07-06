@@ -12,7 +12,10 @@
     
 
     <table>
-      <caption> Generation USA </caption>
+      <caption> Generation USA <h2> https://usa.generation.org/ </h2> 
+        <h2> https://www.codecademy.com </h2>
+      </caption>
+      
       <thread>
       <tr>
       <th scope="col">BSM Name</th>
@@ -74,6 +77,14 @@
     
     Three Areas of Curriculum Focus
     
+    <style>
+.square {
+  height: 50px;
+  width: 50px;
+  background-color: #555;
+}
+</style>
+    
     <h2>BSM</h2>
 <div class="square"></div>
     
@@ -83,6 +94,26 @@
         <h2>Technical Skills</h2>
 <div class="square"></div>
     
+    
+  Want to learn more about our BSM's?
+
+    <style>
+.rectangle {
+  height: 20px;
+  width: 200px;
+  background-color: #550;
+}
+</style>
+
+<h2>Please enter your first name</h2>
+<div class="rectangle"></div>
+    
+<h2>Please enter your last name</h2>
+<div class="rectangle"></div>    
+
+<h2>click to Submit your information</h2>
+<div class="rectangle"></div>
+    
+    
   </body>
 </html>
-
