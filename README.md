@@ -9,8 +9,10 @@
     <link rel="stylesheet" href="css/main.css">
   </head>
   <body>
+    
 
     <table>
+      <caption> Generation USA </caption>
       <thread>
       <tr>
       <th scope="col">BSM Name</th>
@@ -72,6 +74,15 @@
     
     Three Areas of Curriculum Focus
     
-
+    <h2>BSM</h2>
+<div class="square"></div>
+    
+        <h2>Employement Essentials</h2>
+<div class="square"></div>
+    
+        <h2>Technical Skills</h2>
+<div class="square"></div>
+    
   </body>
 </html>
+
